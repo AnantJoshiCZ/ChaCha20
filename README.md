@@ -6,10 +6,10 @@ This repo is an example implementation of the ChaCha20 stream cipher. Each metho
 
 If you want to learn more about ChaCha20, here are a few additional links:
 
-- [https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant]("ChaCha20 Wiki")
-- [https://www.youtube.com/watch?v=UeIpq-C-GSA]("Computerphile's Quick Video Explanation")
-- [https://cr.yp.to/chacha.html]("DJB's Implementations in C")
-- [https://datatracker.ietf.org/doc/html/rfc8103]("IETF's Standardized Implementation Details")
+- (https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant)[ChaCha20 Wiki]
+- (https://www.youtube.com/watch?v=UeIpq-C-GSA)[Computerphile's Quick Video Explanation]
+- (https://cr.yp.to/chacha.html)[DJB's Implementations in C]
+- (https://datatracker.ietf.org/doc/html/rfc8103)[IETF's Standardized Implementation Details]
 
 These are some amazing resources which will help you understand every single details. They also contain other versions of the implementation including the original author's (DJB) and the IETF-standardized version currently in use in the internet and QUIC protocol.
 
