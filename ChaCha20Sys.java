@@ -1,11 +1,5 @@
-package edu.sjsu.crypto.ciphersys.stream;
-
-import edu.sjsu.yazdankhah.crypto.util.cipherutils.ConversionUtil;
-import edu.sjsu.yazdankhah.crypto.util.cipherutils.StringUtil;
-import edu.sjsu.yazdankhah.crypto.util.primitivedatatypes.Word;
-
 /**
- * @author Anant Joshi (mailto:anant.joshi@sjsu.edu, anant.joshi@live.com)
+ * @author Anant Joshi (mailto: anant.joshi@live.com)
  * @implNote this class creates an object which can be used to encrypt and decrypt messages using the ChaCha20 cryptographic algorithm.
  *  
  * There are 3 public methods in this class: encrypt(), decrypt() and generateKey() (details given within method javadoc comments)
