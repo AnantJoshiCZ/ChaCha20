@@ -1,6 +1,7 @@
 /**
  * @author Anant Joshi (mailto: anant.joshi@live.com)
- * @implNote this class creates an object which can be used to encrypt and decrypt messages using the ChaCha20 cryptographic algorithm.
+ * @implNote This is an example implementation of the ChaCha20 algorithm for the purpose of understanding the algorithm. 
+ * This class creates an object which can be used to encrypt and decrypt messages using the ChaCha20 cryptographic algorithm.
  *  
  * There are 3 public methods in this class: encrypt(), decrypt() and generateKey() (details given within method javadoc comments)
  * 
