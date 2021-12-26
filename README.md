@@ -19,6 +19,6 @@ The code in this repo is dependant on a private library which I do not have perm
 
 I may, in future, decide to replace the methods and classes with my own implementations but that is currently TBD. 
 
-## 
+## Support
 
 If this repo, helped you understand the ChaCha20 cipher. Please, give it a star! :star:
